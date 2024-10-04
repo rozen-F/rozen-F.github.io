@@ -8,4 +8,4 @@
 ### [Index](https://rozen-f.github.io/Index.pdf)  
 <br/> 
 
-### [Full Version](https://rozen-f.github.io/Full.pdf)
+<!-- ### [Full Version](https://rozen-f.github.io/Full.pdf)-->
