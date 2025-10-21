@@ -8,4 +8,6 @@
 <!-- ### [Index](https://rozen-f.github.io/Index.pdf)  -->
 <br/> 
 
+Click the link above to access the full book. Please note that the book is not yet fully completed — the link provides the sections that have already been finished; however, it already includes all of the fundamental content.
+
 <!-- ### [Full Version](https://rozen-f.github.io/Full.pdf)-->
