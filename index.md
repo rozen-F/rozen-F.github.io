@@ -24,7 +24,7 @@ Both the Chinese and English editions are available for download via the links a
 
 ### 最后更新 / Last updated
 
-**2026-09-12**
+**2026-09-16**
 
 更正了校对中发现的笔误与数学错误；新增“射影网”一章，该章原为后续高次曲线部分作准备，但也可作为古典射影几何中“网”的语言的介绍来阅读；原有部分也有一些内容上的更新。
 
