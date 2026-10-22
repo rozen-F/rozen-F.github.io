@@ -10,7 +10,7 @@
 
 读者既可循序学习，也可依照前置知识的关系按专题选读。正文配有习题，部分习题附有提示或解答，并设有索引。讲义从熟悉的点、线、圆与三角形出发，将圆锥曲线作为基本研究对象较早引入，逐步展开近代欧氏几何与射影几何的理论，包括反演、等角共轭、交比、配极等工具。讲义将许多看似分散的经典命题联系起来，着重说明几何构造背后的共同原理。在古典几何的基础上，后续内容进一步介绍射影空间的结构与公理化观点；附录则补充并拓展集合与映射、代数、拓扑和基础分析等知识，为理解古典几何与现代数学之间的联系提供背景。
 
-本讲义仍在持续修订与增补中，这里提供的是目前已经完成的部分。后续计划包括平面几何专题增补、高次曲线、平面几何的代数方法等内容。
+本讲义仍在持续修订与增补中，这里提供的是目前已经完成的部分。其中的“射影网”一章，原是后续高次曲线部分的预备内容，但也可作为古典射影几何中“网”的语言的介绍来阅读。后续计划包括平面几何专题增补、高次曲线、平面几何的代数方法等内容。
 
 讲义有中文与英文两个版本。欢迎读者提出勘误与建议，也可发送至 [rozen_F@outlook.com](mailto:rozen_F@outlook.com)。
 
@@ -24,8 +24,8 @@ Both the Chinese and English editions are available for download via the links a
 
 ### 最后更新 / Last updated
 
-**2026-09-16**
+**2026-10-22**
 
-更正了校对中发现的笔误与数学错误；新增“射影网”一章，该章原为后续高次曲线部分作准备，但也可作为古典射影几何中“网”的语言的介绍来阅读；原有部分也有一些内容上的更新。
+更正了校对中发现的笔误与数学错误；新增了非欧几何的简介章节。
 
-Corrected some typos and mathematical errors identified during proofreading and added a chapter on projective nets.
+Corrected some typos and mathematical errors identified during proofreading and added a chapter on non-Euclidean geometry.
