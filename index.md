@@ -2,7 +2,7 @@
 
 **中文版：**[平面几何导论](https://rozen-f.github.io/ItPG.pdf)
 
-**English edition:** [Introduction to Plane Geometry](https://rozen-f.github.io/Introduction_to_Plane_Geometry_Release_Rozen_Fij.pdf)
+**English edition:** [Introduction to Plane Geometry](https://rozen-f.github.io/Introduction_to_Plane_Geometry.pdf)
 
 ### 关于讲义/About the notes
 
